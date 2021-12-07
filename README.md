@@ -1,4 +1,4 @@
-rock paper scissors
+rock paper scissors extended rules version
 
 https://hyperskill.org/projects/78?track=2
 
